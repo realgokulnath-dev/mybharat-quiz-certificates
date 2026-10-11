@@ -36,8 +36,13 @@ Some of the quizzes I participated in include:
 - **Certificates:** Available in this repository
 
 
-## Author
+## About Me
 
-**GOKUL NATH S** BTech - Information Technology student, Coimbatore
+**GOKUL NATH S** (BTech - Information Technology student, Coimbatore)
 - LinkedIn:(https://www.linkedin.com/in/gokulnath01)
 - Email: gokulsaravanan034@gmail.com
+
+
+## 📌 Disclaimer
+
+- **This repository is maintained for personal documentation and portfolio purposes. The essays and certificates belong to their respective activities on the My Bharat platform. This repository is not an official Government of India website or publication.**
