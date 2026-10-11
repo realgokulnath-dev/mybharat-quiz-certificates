@@ -38,5 +38,6 @@ Some of the quizzes I participated in include:
 
 ## Author
 
-**GOKUL NATH S**,BTech - Information Technology student, Coimbatore
-LinkedIn:(https://www.linkedin.com/in/gokulnath01) | Email: gokulsaravanan034@gmail.com
+**GOKUL NATH S** BTech - Information Technology student, Coimbatore
+- LinkedIn:(https://www.linkedin.com/in/gokulnath01)
+- Email: gokulsaravanan034@gmail.com
